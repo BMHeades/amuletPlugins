@@ -7,7 +7,7 @@
 #### How to install an Amulet Plugin
 
 - Click on the plugin of your choice
-- Click the *Raw* button
-- Right click anywhere then *click save as...*
-- Put the file in **Amulet\plugins\operations**
-- On Amulet, click *refresh* button on **'Operation'** tab.
+- Click the ***Raw*** button
+- Right click anywhere then ***click save as...***
+- Put the file in ***Amulet\plugins\operations***
+- On Amulet, click ***refresh*** button on ***'Operation'*** tab.
