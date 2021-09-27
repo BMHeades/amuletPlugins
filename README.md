@@ -8,6 +8,6 @@
 
 - Click on the plugin of your choice
 - Click the ***Raw*** button
-- Right click anywhere then ***click save as...***
+- Right click anywhere then click ***save as...***
 - Put the file in ***Amulet\plugins\operations***
-- On Amulet, click ***refresh*** button on ***'Operation'*** tab.
+- On Amulet, click ***refresh*** button on ***Operation*** tab.
