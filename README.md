@@ -1,4 +1,4 @@
-## Amulet Plugins made by @bmheades
+## Amulet Plugins by @bmheades
 
 **ColorfulArcs** - fills the selection with random colorful arcs.
 
