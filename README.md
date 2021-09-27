@@ -1,1 +1,2 @@
-# amuletPlugins
+Amulet Plugins made by @bmheades
+
